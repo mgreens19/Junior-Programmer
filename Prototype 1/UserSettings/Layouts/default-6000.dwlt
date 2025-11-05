@@ -19,11 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-<<<<<<< Updated upstream
   m_Title: Scene
-=======
-  m_Title: Project
->>>>>>> Stashed changes
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -78,11 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-<<<<<<< Updated upstream
-  controlID: 25
-=======
-  controlID: 16
->>>>>>> Stashed changes
+  controlID: 17
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -159,11 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-<<<<<<< Updated upstream
-  controlID: 48
-=======
-  controlID: 15
->>>>>>> Stashed changes
+  controlID: 16
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -236,11 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-<<<<<<< Updated upstream
-  controlID: 49
-=======
-  controlID: 68
->>>>>>> Stashed changes
+  controlID: 69
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -416,7 +400,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Junior Scripts
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -426,7 +410,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\02MADDOX.GREENSPOON\Maddox Greenspoon\Repositories\Junior
     Programmer\Prototype 1
@@ -434,14 +418,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< Updated upstream
-    m_SelectedIDs: 08ca9a3b
-    m_LastClickedID: 1000000008
-=======
-    m_SelectedIDs: 07ca9a3b
-    m_LastClickedID: 1000000007
->>>>>>> Stashed changes
-    m_ExpandedIDs: 0000000000ca9a3b
+    m_SelectedIDs: f4e60000
+    m_LastClickedID: 59124
+    m_ExpandedIDs: 00000000c6e6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,25 +477,25 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Prototype 1
+      m_OriginalName: Prototype 1
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 59128
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 12}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1003,11 +982,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       displayed: 0
       id: Scene View/TrailRenderer
-<<<<<<< Updated upstream
       index: 8
-=======
-      index: 7
->>>>>>> Stashed changes
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":48.0,"y":48.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
@@ -1161,11 +1136,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       displayed: 0
       id: Scene View/PBR Validation Settings
-<<<<<<< Updated upstream
       index: 9
-=======
-      index: 8
->>>>>>> Stashed changes
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":24.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
@@ -1216,15 +1187,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-<<<<<<< Updated upstream
-    m_Target: {x: -55.192497, y: -65.2056, z: 21.688549}
+    m_Target: {x: 3.6973763, y: 3.9044821, z: -4.9160347}
     speed: 2
-    m_Value: {x: -55.192497, y: -65.2056, z: 21.688549}
-=======
-    m_Target: {x: -3.982298, y: -0.32118988, z: 18.841702}
-    speed: 2
-    m_Value: {x: -3.982298, y: -0.32118988, z: 18.841702}
->>>>>>> Stashed changes
+    m_Value: {x: 3.6973763, y: 3.9044821, z: -4.9160347}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1270,19 +1235,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-<<<<<<< Updated upstream
-    m_Target: {x: 0.3295946, y: -0.57370585, z: 0.27036738, w: 0.69938064}
+    m_Target: {x: -0.05563721, y: 0.92910904, z: -0.15643816, w: -0.33043727}
     speed: 2
-    m_Value: {x: 0.32918823, y: -0.57475346, z: 0.2708611, w: 0.6985183}
-  m_Size:
-    m_Target: 73.5321
-=======
-    m_Target: {x: -0.1941422, y: 0.5550934, z: -0.13514052, w: -0.79744446}
-    speed: 2
-    m_Value: {x: -0.19434464, y: 0.5538965, z: -0.13484913, w: -0.798276}
+    m_Value: {x: -0.056106254, y: 0.92811316, z: -0.15627047, w: -0.333223}
   m_Size:
     m_Target: 10
->>>>>>> Stashed changes
     speed: 2
     m_Value: 73.5321
   m_Ortho:
@@ -1357,15 +1314,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< Updated upstream
-      m_SelectedIDs: 7efaffff
-      m_LastClickedID: -1410
-      m_ExpandedIDs: 94f4ffff1efbffff9aa70000d4a70000
-=======
-      m_SelectedIDs: 
+      m_SelectedIDs: f8e60000
       m_LastClickedID: 0
-      m_ExpandedIDs: daf1ffff
->>>>>>> Stashed changes
+      m_ExpandedIDs: 1257ffff6a58ffff505effff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
