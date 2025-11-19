@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 1\\assets\\junior scripts\\drive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\junior scripts\\drive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 1\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 1\\assets\\challenge 1\\scripts\\propeller spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\propeller spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\junior scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\junior scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\junior scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\junior scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\junior scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\junior scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\assets\\challenge 1\\scripts\\propeller spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\propeller spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drive.cs",
+              "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\Assets\\Junior Scripts\\Drive.cs",
+              "RelativeDocumentMoniker": "Assets\\Junior Scripts\\Drive.cs",
+              "ToolTip": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\Assets\\Junior Scripts\\Drive.cs",
+              "RelativeToolTip": "Assets\\Junior Scripts\\Drive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:17:37.903Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Propeller Spin.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\Assets\\Challenge 1\\Scripts\\Propeller Spin.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\Propeller Spin.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\Propeller Spin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T13:36:31.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T13:36:31.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerControllerX.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
@@ -64,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FollowPlayerX.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
@@ -77,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 1\\Assets\\Junior Scripts\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Junior Scripts\\FollowPlayer.cs",
@@ -85,7 +101,8 @@
               "RelativeToolTip": "Assets\\Junior Scripts\\FollowPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:39:43.369Z"
+              "WhenOpened": "2025-11-06T12:39:43.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,7 +114,8 @@
               "RelativeToolTip": "Assets\\Junior Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:09:48.029Z"
+              "WhenOpened": "2025-11-04T13:09:48.029Z",
+              "EditorCaption": ""
             }
           ]
         }

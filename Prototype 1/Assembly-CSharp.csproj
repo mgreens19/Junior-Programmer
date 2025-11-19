@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Junior Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Challenge 1\Scripts\Propeller Spin.cs" />
+    <Compile Include="Assets\Junior Scripts\Drive.cs" />
     <Compile Include="Assets\Junior Scripts\PlayerController.cs" />
     <Compile Include="Assets\Challenge 1\Scripts\FollowPlayerX.cs" />
     <Compile Include="Assets\Challenge 1\Scripts\PlayerControllerX.cs" />
