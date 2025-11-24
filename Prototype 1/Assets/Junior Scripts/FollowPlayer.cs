@@ -1,9 +1,11 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class FollowPlayer : MonoBehaviour
 {
     public GameObject player;
+    public KeyCode SwitchKey;
     private Vector3 ThirdPersonOffset = new Vector3(0, 6, -15);
     private Vector3 FirstPersonOffset = new Vector3(0, 4.43f, 0);
     private bool isFirstPerson;
@@ -18,7 +20,7 @@ public class FollowPlayer : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(SwitchKey))
         {
             isFirstPerson = !isFirstPerson;
         }

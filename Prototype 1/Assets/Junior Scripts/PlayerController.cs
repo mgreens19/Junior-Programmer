@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    //Determines player using the script
+    public string inputID;
+
     //Private Variables
     private float speed = 15.0f;
     private float rotateSpeed = 45.0f;
@@ -19,8 +22,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         //Gets Player Input
-        horizontalInput = Input.GetAxis("Horizontal");
-        verticalInput = Input.GetAxis("Vertical");
+        horizontalInput = Input.GetAxis("Horizontal" + inputID);
+        verticalInput = Input.GetAxis("Vertical" + inputID);
 
         // Moves vehicle forward based on Player Input
         transform.Translate(Vector3.forward * Time.deltaTime * speed * verticalInput);
