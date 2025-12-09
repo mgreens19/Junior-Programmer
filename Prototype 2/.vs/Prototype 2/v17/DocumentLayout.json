@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 2\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 2\\assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DestroyOutOfBounds.cs",
-              "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBounds.cs",
-              "ToolTip": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBounds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:43:58.458Z",
+              "WhenOpened": "2025-12-09T13:04:52.706Z",
               "EditorCaption": ""
             },
             {
@@ -44,6 +48,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DestroyOutOfBounds.cs",
+              "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "ToolTip": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:43:58.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MoveForward.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T13:16:23.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T13:16:23.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -64,8 +80,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:39:32.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T13:39:32.565Z"
             }
           ]
         }
