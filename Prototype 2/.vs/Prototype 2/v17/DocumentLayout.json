@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,8 +50,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,7 +64,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\AggressiveSpawnManager.cs",
               "ToolTip": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\AggressiveSpawnManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\AggressiveSpawnManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T13:03:56.146Z",
               "EditorCaption": ""
@@ -75,8 +79,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBounds.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:43:58.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T12:43:58.458Z"
             },
             {
               "$type": "Document",
@@ -88,8 +91,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:04:52.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T13:04:52.706Z"
             },
             {
               "$type": "Document",
@@ -101,12 +103,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:39:32.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-12-04T13:39:32.565Z"
             },
             {
               "$type": "Document",
@@ -154,8 +151,7 @@
               "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T12:41:31.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T12:41:31.432Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T13:16:23.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T13:16:23.448Z"
             }
           ]
         }
