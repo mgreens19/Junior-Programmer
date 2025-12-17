@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class GameOver : MonoBehaviour
 {
+    private static int lives = 3;
+    private float lowerBound = -10;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -11,12 +14,29 @@ public class GameOver : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (transform.position.z < lowerBound)
+        {
+            lives--;
+            Debug.Log(lives);
+            
+        }
+
+        if (lives <= 0)
+        {
+            Debug.Log("Game Over!");
+        }
+
     }
 
-    // When the object's collider, collides another object's collider the debug log declares "Game Over!"
+    // When the object collides with a Player, lives go down upon reaching 0 the game is over
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Game Over!");
+        if (other.CompareTag("Player"))
+        {
+            lives--;
+            Debug.Log(lives);
+        }
+
+       
     }
 }

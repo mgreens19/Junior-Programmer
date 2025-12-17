@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     private float zRangeUpper = 16.0f;
     private float zRangeLower = 1.0f;
     private float verticalInput;
+    
 
     public GameObject projectilePrefab;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
