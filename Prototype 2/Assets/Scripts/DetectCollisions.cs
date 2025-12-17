@@ -14,10 +14,15 @@ public class DetectCollisions : MonoBehaviour
     {
         
     }
-    // When the object's collider, collides another object's collider, both objects are destroyed
+    // When the object's collider, collides another object's collider, and the other object has the "Food" tag both objects are destroyed
     void OnTriggerEnter(Collider other)
     {
-        Destroy(gameObject);
-        Destroy(other.gameObject);
+
+        if (other.CompareTag("Food"))
+        {
+            Destroy(gameObject);
+            Destroy(other.gameObject);
+        }
+        
     }
 }

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -245,8 +245,8 @@ MonoBehaviour:
     y: 0
     width: 399
     height: 933
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -418,23 +418,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 42b00000
-    m_LastClickedID: 45122
-    m_ExpandedIDs: 0000000060ae000062ae000000ca9a3b
+    m_SelectedIDs: 8cb00000
+    m_LastClickedID: 45196
+    m_ExpandedIDs: 00000000aaae0000acae000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scenes
-      m_OriginalName: Scenes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 44642
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 12}
@@ -449,7 +449,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000060ae000062ae0000
+    m_ExpandedIDs: 00000000aaae0000acae0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,18 +481,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Player
+      m_OriginalName: Player
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 45810
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 12}
@@ -1187,9 +1187,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -1.3117299, y: 14.848877, z: -12.699558}
+    m_Target: {x: -0.5914985, y: 1.4487122, z: 9.065742}
     speed: 2
-    m_Value: {x: -1.3117299, y: 14.848877, z: -12.699558}
+    m_Value: {x: -0.5914985, y: 1.4487122, z: 9.065742}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1235,13 +1235,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.27698168, y: 0.03364099, z: -0.009960814, w: -0.96033716}
+    m_Target: {x: -0.56917214, y: 0.041024685, z: -0.028707342, w: -0.82081413}
     speed: 2
-    m_Value: {x: -0.27695438, y: 0.033637673, z: -0.009959833, w: -0.9602425}
+    m_Value: {x: -0.5691153, y: 0.041020587, z: -0.028704476, w: -0.8207321}
   m_Size:
-    m_Target: 1.534767
+    m_Target: 7.427729
     speed: 2
-    m_Value: 1.534767
+    m_Value: 7.427729
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1314,23 +1314,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 1efbffff36a80000
+      m_SelectedIDs: 4ca80000
+      m_LastClickedID: 43084
+      m_ExpandedIDs: e4b3ffff1efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Player
+        m_OriginalName: Player
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 43080
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 11}
