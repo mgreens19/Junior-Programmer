@@ -1,42 +1,44 @@
+using JetBrains.Annotations;
 using UnityEngine;
 
-public class GameOver : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     private static int lives = 3;
-    private float lowerBound = -10;
+    private static int score = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        Debug.Log("lives: " + lives);
+        Debug.Log("score: " + score);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.z < lowerBound)
+        
+
+    }
+
+    // Method that makes player lose lives and declares it
+     public static void LoseLife()
+    {
+        if (lives > 0)
         {
             lives--;
-            Debug.Log(lives);
-            
+            Debug.Log("lives: " + lives);
         }
 
-        if (lives <= 0)
+        else 
         {
             Debug.Log("Game Over!");
         }
 
     }
 
-    // When the object collides with a Player, lives go down upon reaching 0 the game is over
-    void OnTriggerEnter(Collider other)
+    public static void Feed()
     {
-        if (other.CompareTag("Player"))
-        {
-            lives--;
-            Debug.Log(lives);
-        }
-
-       
+        score++;
+        Debug.Log("score: " + score);
     }
 }

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 47
+  controlID: 117
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -400,7 +400,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -410,7 +410,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\02MADDOX.GREENSPOON\Maddox Greenspoon\Repositories\Junior
     Programmer\Prototype 2
@@ -418,9 +418,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9ab00000
-    m_LastClickedID: 45210
-    m_ExpandedIDs: 00000000b8ae0000baae000000ca9a3b
+    m_SelectedIDs: a4b00000
+    m_LastClickedID: 45220
+    m_ExpandedIDs: 00000000beae0000c0ae000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,7 +449,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b8ae0000baae0000
+    m_ExpandedIDs: 00000000beae0000c0ae0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1187,9 +1187,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 4.300116, y: 8.358603, z: -5.11051}
+    m_Target: {x: 7.454286, y: 12.232109, z: 3.9799507}
     speed: 2
-    m_Value: {x: 4.300116, y: 8.358603, z: -5.11051}
+    m_Value: {x: 7.454286, y: 12.232109, z: 3.9799507}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1235,9 +1235,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.21214187, y: -0.09751324, z: 0.021041699, w: -0.9722376}
+    m_Target: {x: -0.6000932, y: -0.1495705, z: 0.11520248, w: -0.7774628}
     speed: 2
-    m_Value: {x: -0.21357845, y: -0.09747173, z: 0.021185867, w: -0.9718203}
+    m_Value: {x: -0.60003227, y: -0.14955531, z: 0.11519078, w: -0.7773838}
   m_Size:
     m_Target: 7.427729
     speed: 2
@@ -1314,7 +1314,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f07a0000
       m_LastClickedID: 0
       m_ExpandedIDs: 1efbffff
       m_RenameOverlay:
@@ -1333,7 +1333,7 @@ MonoBehaviour:
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 8}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0

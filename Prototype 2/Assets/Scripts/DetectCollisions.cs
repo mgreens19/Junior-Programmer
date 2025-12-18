@@ -3,7 +3,7 @@ using UnityEngine;
 public class DetectCollisions : MonoBehaviour
 
 {
-    private static int score = 0;
+   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,9 +21,7 @@ public class DetectCollisions : MonoBehaviour
 
         if (other.CompareTag("Food"))
         {
-            // Score is increased when an animal is destroyed
-            score++;
-            Debug.Log(score);
+            GameManager.Feed();
 
             // Animal and food are destroyed
             Destroy(gameObject);

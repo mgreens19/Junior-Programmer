@@ -11,20 +11,20 @@ public class DestroyOutOfBounds : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+       
     }
 
     // Update is called once per frame
     void Update()
     {
-        // if an object goes too far forward it is destroyed & if it goes too far backward it is destroyed
+        // if an object goes too far forward it is destroyed & if it goes too far backward it is destroyed and lives go down by one
         if (transform.position.z > topBound)
         {
             Destroy(gameObject);
         }
         else if (transform.position.z < lowerBound)
         {
-            
+            GameManager.LoseLife();
             Destroy(gameObject);
         }
 
@@ -37,5 +37,16 @@ public class DestroyOutOfBounds : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+    // When the object collides with a Player, lives go down upon reaching 0 the game is over
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            GameManager.LoseLife();
+        }
+
+
     }
 }
