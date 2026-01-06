@@ -7,7 +7,7 @@ public class AggressiveSpawnManager : MonoBehaviour
     private float spawnRangeZLower = 1.0f;
     private float spawnPosX;
     private float startDelay = 2;
-    private float spawnInterval = 0.5f;
+    private float spawnInterval = 1.5f;
     private Quaternion chosenRotation;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

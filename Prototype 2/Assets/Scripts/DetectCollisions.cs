@@ -21,15 +21,16 @@ public class DetectCollisions : MonoBehaviour
 
         if (other.CompareTag("Food"))
         {
-            GameManager.Feed();
-
-            // Animal and food are destroyed
-            Destroy(gameObject);
-            Destroy(other.gameObject);
-            
+            other.GetComponent<AnimalHunger>().FeedAnimal(1);
         }
 
-      
+
+        if (other.CompareTag("Player"))
+        {
+            GameManager.LoseLife();
+        }
+
+
 
     }
 }

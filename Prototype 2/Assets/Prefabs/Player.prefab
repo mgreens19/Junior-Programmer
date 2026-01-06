@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 777c281ba384095419f771020cf19b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 25
   projectilePrefab: {fileID: 1257485498316213201, guid: 691b4b2b2aff43d4595d5aa4014b8657, type: 3}
 --- !u!65 &8280568822892790021
 BoxCollider:

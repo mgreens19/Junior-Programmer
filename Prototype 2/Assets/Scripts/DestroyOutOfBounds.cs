@@ -39,14 +39,4 @@ public class DestroyOutOfBounds : MonoBehaviour
         }
     }
 
-    // When the object collides with a Player, lives go down upon reaching 0 the game is over
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            GameManager.LoseLife();
-        }
-
-
-    }
 }
