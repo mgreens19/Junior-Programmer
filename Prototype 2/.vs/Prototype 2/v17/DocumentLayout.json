@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\assets\\scripts\\animal hunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal hunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 2\\assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\02maddox.greenspoon\\maddox greenspoon\\repositories\\junior programmer\\prototype 2\\assets\\scripts\\animal hunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal hunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Animal Hunger.cs",
               "DocumentMoniker": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\Animal Hunger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Animal Hunger.cs",
               "ToolTip": "C:\\Users\\02MADDOX.GREENSPOON\\Maddox Greenspoon\\Repositories\\Junior Programmer\\Prototype 2\\Assets\\Scripts\\Animal Hunger.cs",
               "RelativeToolTip": "Assets\\Scripts\\Animal Hunger.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:19:42.13Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DetectCollisions.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAMwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:04:23.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:04:23.01Z"
             },
             {
               "$type": "Document",
