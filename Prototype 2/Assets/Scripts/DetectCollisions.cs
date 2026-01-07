@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class DetectCollisions : MonoBehaviour
@@ -21,7 +22,7 @@ public class DetectCollisions : MonoBehaviour
 
         if (other.CompareTag("Food"))
         {
-            other.GetComponent<AnimalHunger>().FeedAnimal(1);
+            GetComponent<AnimalHunger>().FeedAnimal(1);            Destroy(other.gameObject);
         }
 
 

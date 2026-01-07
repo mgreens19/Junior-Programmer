@@ -2116,9 +2116,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: SliderCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1979658879409766006, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_HandleRect
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1979658879409766006, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_TargetGraphic
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3901798494055991797, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4765249331356745613, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_Name
+      value: CowSlider
       objectReference: {fileID: 0}
     - target: {fileID: 4940068494325038522, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
       propertyPath: m_Pivot.x
@@ -2204,8 +2216,41 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6244169714238229866, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.13999939
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 135
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8703
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388589240193526597, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1160
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4866117474960973096, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 50f6bea9353a33f438a355c40a50ebf9, type: 3}
